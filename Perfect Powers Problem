@@ -1,0 +1,5 @@
+If m and n are positive integers where m^2 + 14m - 32 = 3^n, what is the value of m + n?
+
+Factorize the equation to get (m+16)(m-2)=3^n. Notice that m=-16 and m=2 have a distance of 18 between them.
+Only 3^2 and 3^3 or 9 and 27 have this same distance. Thus, n = 5 and m = 11 ==> m + 16 = 3^3 (27) so m = 11.
+We discard negative solutions.
